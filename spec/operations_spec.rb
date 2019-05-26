@@ -1,10 +1,10 @@
 def unsafe?(mph = [1..150])
-    if mph > 60   
+    if mph > 60
      puts "true"
-    
+
     end
 
-    if mph < 40   
+    if mph < 40
       puts "true"
     end
 
